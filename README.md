@@ -8,3 +8,5 @@ The official tool is only for Windows, so I've developed this tool for personal 
 I've tested the tool only with my oscilloscope, so I don't guarantee it works with others.
 
 The use of this tool is at youw own risk, I don't grant its safety!
+
+User confirmed Hantek 2C42 is supported too.
